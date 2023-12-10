@@ -1,0 +1,4 @@
+viewModel.selectedfreqTags = null
+viewModel.selectedMedicineTimeOfDayType1 = ArrayList()
+viewModel.selectedMedicineTimeOfDayType2 = ArrayList()
+viewModel.selectedMedTypeTags = null
